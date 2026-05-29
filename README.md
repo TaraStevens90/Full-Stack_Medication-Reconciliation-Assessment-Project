@@ -319,6 +319,11 @@ The frontend communicates with the backend via fetch requests.
 
 ---
 
+## Development Workflow
+All changes are made in the `dev` branch and merged via pull requests.
+
+---
+
 ## 🔮 Future Improvements
 
 With additional time, I would expand the project in the following areas to increase performance, reliability, and clinical realism. Each improvement is chosen to address a real limitation or scalability concern in the current design.
